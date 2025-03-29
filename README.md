@@ -1,2 +1,6 @@
 # osint-cases
-A collection of OSINT investigations and case studies on phishing, threat actor infrastructure, and digital footprints.
+
+🌸 A collection of open-source intelligence (OSINT) investigations focused on phishing analysis, threat actor profiling, and digital infrastructure tracking.
+
+Each folder contains a self-contained case study, including IoCs, screenshots, findings, and final reports.  
+This is my learning journey in threat intelligence – combining technical research with investigative thinking.
